@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HELLO,IEVII</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ievii.com/"/>
+  <updated>2018-02-18T10:44:51.643Z</updated>
+  <id>https://ievii.com/</id>
+  
+  <author>
+    <name>IEVII</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>更改网站样式</title>
+    <link href="https://ievii.com/chang-style/"/>
+    <id>https://ievii.com/chang-style/</id>
+    <published>2018-02-04T16:08:53.000Z</published>
+    <updated>2018-02-18T10:44:51.643Z</updated>
+    
+    <content type="html"><![CDATA[<div class="aplayer" id="aplayer-darling"></div><script>$(function(){$.ajax({url:"https://api.i-meto.com/meting/api?server=netease&type=song&id=531051597",success:function(e){var a=new APlayer({element:document.getElementById("aplayer-darling"),showlrc:3,theme:"#ad7a86",mode:"random",music:JSON.parse(e)[0]});window.aplayers||(window.aplayers=[]),window.aplayers.push(a)}})})</script><p>&nbsp;<br><strong>点击<a href="javascript:;" id="darling-trigger" target="_blank" rel="noopener">这里</a>切换样式</strong><br><script>$("#darling-trigger").click(function(){var i=$("body");i.hasClass("theme-ievii")?i.removeClass("theme-ievii"):i.addClass("theme-ievii")})</script></p><p><img src="https://ievii.com/images/ievii-banner01.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;aplayer&quot; id=&quot;aplayer-darling&quot;&gt;&lt;/div&gt;&lt;script&gt;$(function(){$.ajax({url:&quot;https://api.i-meto.com/meting/api?server=netease&amp;type=song
+      
+    
+    </summary>
+    
+      <category term="分享" scheme="https://ievii.com/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>音乐</title>
+    <link href="https://ievii.com/my-favorite-songs/"/>
+    <id>https://ievii.com/my-favorite-songs/</id>
+    <published>2017-12-05T16:01:30.000Z</published>
+    <updated>2018-02-18T09:22:57.493Z</updated>
+    
+    <content type="html"><![CDATA[<div class="aplayer" id="aplayer1"></div><script>$(function(){$.ajax({url:"https://api.i-meto.com/meting/api?server=netease&type=playlist&id=35798529",success:function(e){var a=new APlayer({element:document.getElementById("aplayer1"),showlrc:3,theme:"#ad7a86",listmaxheight:"280px",mode:"random",music:JSON.parse(e)});window.aplayers||(window.aplayers=[]),window.aplayers.push(a)}})})</script><p>&nbsp;</p><p>同步自：<a href="http://music.163.com/#/playlist?id=35798529" target="_blank" rel="noopener"> 网易云音乐</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;aplayer&quot; id=&quot;aplayer1&quot;&gt;&lt;/div&gt;&lt;script&gt;$(function(){$.ajax({url:&quot;https://api.i-meto.com/meting/api?server=netease&amp;type=playlist&amp;id
+      
+    
+    </summary>
+    
+      <category term="分享" scheme="https://ievii.com/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+  </entry>
+  
+</feed>
