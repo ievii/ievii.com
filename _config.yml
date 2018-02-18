@@ -3,15 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hi, DIYgod
+title: HELLO,IEVII
 subtitle:
-description: 人气网红 | 前端萌新 | 有猫 | 开源
-author: DIYgod
+description: 艾依薇 | IEVII艾依薇 | ievii | 食品 | 保健食品 | 药品 | 医疗器械 | 减肥 | 美容 | 养颜 | 养生 | 祛斑 | 祛痘 | 代用茶 | 袋泡茶 | 时尚 | 科技
+author: IEVII
 language: zh-Hans
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://diygod.me
+url: https://ievii.com
 root: /
 permalink: :title/
 permalink_defaults:
@@ -72,13 +72,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: sagiri
+theme: ievii
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:DIYgod/diygod.me.git
+  repo: git@github.com:ievii/ievii.com.git
   branch: master
 
 search:
@@ -97,20 +97,21 @@ generator_amp:
   templateDir:  amp-template
   assetDistDir: amp-dist
   logo:
-    path:   sample/DIYgod.jpg
+    path:   sample/ievii356.jpg
     width:  600
     height: 60
   substituteTitleImage:
-    path:   sample/header-sagiri.jpg
+    path:   sample/ievii-banner01.jpg
     width:  1024
     height: 800
   warningLog: false
   theme:
     menu:
-      首页: /
-      归档: /archives/
-      实验室: /lab/
-      投喂: /donate/
-      后宫: /friends/
-      留言板: /message/
-      关于: /about/
+      首页: / || home
+      商城: /shop/ || shop
+      归档: /archives/ || archive
+      研究院: /lab/ || flask
+      赞赏: /donate/ || cutlery
+      友链: /friends/ || mars
+      留言板: /message/ || pencil
+      关于: /about/ || rocket

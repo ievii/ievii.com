@@ -6,13 +6,26 @@ type: "about"
 ---
 
 ![](/images/about.jpg)
+艾依薇公司简介：
 
-人气网红 | 前端小萌新 | bilibili | 有猫 | 开源
+食品、保健食品、药品、医疗器械销售。其实也没有太多好介绍的，就是在社会混了那么几年了，愈发现健康对人太重要了（不要问我经历了什么……）当然，除了健康之外，我们有了更新的追求－－更帅、更漂亮、更年经、更自信、更有魅力，更多的美好向往！于是有了艾依薇健康有限公司！
 
-抓住我： [GitHub](https://github.com/DIYgod) | [Twitter](https://twitter.com/DIYgod) | [QQ 群](/images/qq-g.jpg) | [Telegram chanel](https://t.me/awesomeDIYgod) | [更多](https://www.anotherhome.net/3163)
+产品系列：
+
+1、减肥系列
+
+2、美容养颜系列
+
+3、养生系列
+
+4、药品、医疗器械系列
+
+艾依薇 | IEVII艾依薇 | ievii | 食品 | 保健食品 | 药品 | 医疗器械 | 减肥 | 美容 | 养颜 | 养生 | 祛斑 | 祛痘 | 代用茶 | 袋泡茶 | 时尚 | 科技
+
+抓住我：  [QQ 群](/images/qq-g.jpg) | [更多](https://www.ievii.com)
 
 &nbsp;
 
-博客建于2014年2月9日
+网站建于2016年12月15日
 
-2017年11月20日从 WordPress 换到 Hexo，新的开始！
+2017年10月29日从 WordPress 换到 Hexo，新的开始！

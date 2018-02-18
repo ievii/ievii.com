@@ -6,7 +6,7 @@ install:
   - yarn  #安装hexo及插件
 
 before_script:
-  - cd themes/sagiri
+  - cd themes/ievii
   - yarn
   - cd ../..
 
@@ -28,7 +28,7 @@ branches:
     - hexo  #只监测hexo分支，hexo是我的分支的名称，可根据自己情况设置
 env:
  global:
-   - GH_REF: github.com/DIYgod/diygod.me.git  #设置GH_REF，注意更改yourname
+   - GH_REF: github.com/ievii/ievii.com.git  #设置GH_REF，注意更改yourname
 
 cache:
   yarn: true
