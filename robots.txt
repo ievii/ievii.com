@@ -2,6 +2,9 @@
 User-agent: *
 Allow: /
 Allow: /archives/
+Allow: /about
+Allow: /lab
+Allow: /categories
 
 Disallow: /vendors/
 Disallow: /js/
